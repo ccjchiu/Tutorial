@@ -4,7 +4,7 @@
 ### <H3>Header 3
 ![alt text](face02.jpg)
   
-Format: ![Alt Text](http://www.ust.hk/intranet)
+![Alt Text](http://www.ust.hk/intranet)
   
 You can use the [editor on GitHub](https://github.com/ccjchiu/Tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
