@@ -14,7 +14,6 @@ See the [Home page](/go-go-ghpages/README.md)
 ### <H3>Header 3
 ![alt text](face02.jpg)
   
-![Alt Text](http://www.ust.hk/intranet)
   
 You can use the [editor on GitHub](https://github.com/ccjchiu/Tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,7 +34,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](face02.jpg)
+[Link](page.html) and ![Image](face02.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
