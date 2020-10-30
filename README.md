@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![alt text] (face02.jpg)
+![alt text](face02.jpg)
 
 - Bulleted
 - List
